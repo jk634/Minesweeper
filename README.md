@@ -18,6 +18,15 @@ The options are:
   - Mines = 70
 
 After selection the game will start. First it asks to select a row, and after that it asks to select a column. If there's a mine, you will lose the game, and if there's not a mine, the game will continue until you hit the mine or you clear whole board and win the game.
+</br></br>
+<p>
+  <img src="images/sweep_1.png" title="Start">
+</br>
+  <img src="images/sweep_2.png" title="Loss">
+  </br>
+  <img src="images/sweep_3.png" title="Win">
+</p>
+
 
 # Note
 
